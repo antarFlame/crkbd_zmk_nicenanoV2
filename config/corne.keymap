@@ -51,7 +51,7 @@
         // | CTRL |   ? |     |     |     |     |   |  -  |  *  |  [  |  ]  |  \  |  `   |
         // | <    |   > |     |     |     |     |   |  _  |  +  |  {  |  }  | "|" |  ~   |
         //                    | GUI | LWR | SPC |   | ENT | RSE | ALT |
-        display-name = "Up";
+        display-name = "Top";
         raise_layer {
             bindings = <
 &kp ESC    &kp EXCL   &kp AT  &kp HASH  &kp DLLR  &kp PRCNT    &kp AMPS   &kp SLASH  &kp LPAR  &kp RPAR  &kp EQUAL  &kp DEL
