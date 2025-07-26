@@ -879,14 +879,15 @@
     "<p>Backlight and RGB settings, all other keys not included in the previous layers</p>",
     {
       "c": "#f7f2ea",
-      "f": 3
+      "f": 6
     },
     "<i class='fa fa-volume-up'></i>"
   ],
   [
     {
       "y": -0.75,
-      "x": 1
+      "x": 1,
+      "f": 3
     },
     "BT1",
     {
@@ -947,14 +948,16 @@
     },
     "RGB ON",
     {
-      "x": 4.25
+      "x": 4.25,
+      "f": 7
     },
     "<i class='fa fa-volume-down'></i>"
   ],
   [
     {
       "y": -0.75,
-      "x": 1
+      "x": 1,
+      "f": 3
     },
     "RGB Sat+",
     {
@@ -998,11 +1001,13 @@
     "RGB slower",
     {
       "x": 6.25,
-      "a": 7
+      "a": 7,
+      "f": 7
     },
     "<i class='fa fa-play-circle-o'></i>",
     {
-      "x": 1
+      "x": 1,
+      "f": 3
     },
     "Ext Power OFF"
   ],
@@ -1013,14 +1018,16 @@
     },
     "RGB OFF",
     {
-      "x": 4.25
+      "x": 4.25,
+      "f": 7
     },
     "<i class='fa fa-volume-off'></i>"
   ],
   [
     {
       "y": -0.75,
-      "x": 1
+      "x": 1,
+      "f": 3
     },
     "RGB Sat-",
     {
